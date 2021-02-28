@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # Python script for getting bar codes of bills
 
 from selenium import webdriver
